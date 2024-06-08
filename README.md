@@ -1,0 +1,1 @@
+WNF is windows pub/sub system integrated in both kernel and user mode. There are lots of wellknown WNF state names. Here present an updated version extracted based on ionescu007's work(https://github.com/ionescu007/wnfun/).
